@@ -4,6 +4,12 @@ PC Usage Time Tracker v1.0.0 is a Python desktop application for **automatically
 This repository contains the full source code, allowing you to customize **tracking logic, data storage, UI layout, charts, exporting, and productivity features** for personal, professional, or learning purposes.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="JOBREC Main Interface" src="https://github.com/rogers-cyber/PCUsageTimeTracker/blob/main/pc_usage_time_tracker.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -146,3 +152,4 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is not allowed.
+
