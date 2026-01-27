@@ -7,7 +7,7 @@ This repository contains the full source code, allowing you to customize **track
 🌟 SCREENSHOT
 ------------------------------------------------------------
 
-<img alt="JOBREC Main Interface" src="https://github.com/rogers-cyber/PCUsageTimeTracker/blob/main/pc_usage_time_tracker.jpg" />
+<img alt="PC Usage Time Tracker Main Interface" src="https://github.com/rogers-cyber/PCUsageTimeTracker/blob/main/pc_usage_time_tracker.jpg" />
 
 ------------------------------------------------------------
 🌟 FEATURES
@@ -152,4 +152,5 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is not allowed.
+
 
